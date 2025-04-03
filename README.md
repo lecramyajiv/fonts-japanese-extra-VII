@@ -1,3 +1,8 @@
+# Fonts Japanese Extra VII
+
+Collection of Japanese fonts for slackware linux.
+The following fonts are available:
+
 1. Kaisei
     1. Kaisei-Decol
     2. Kaisei-Haruno
