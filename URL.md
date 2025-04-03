@@ -1,0 +1,7 @@
+1. [Kaisei](https://github.com/FontKai-Kaisei/Kaisei/archive/refs/heads/master.zip)
+2. [Hachi Maru Pop](https://github.com/noriokanisawa/HachiMaruPop/archive/refs/heads/master.zip)
+3. [Kosugi](https://github.com/googlefonts/kosugi/archive/refs/heads/main.zip)
+4. [Yuji](https://github.com/Kinutafontfactory/Yuji/archive/refs/heads/master.zip)
+5. [Kiwi Maru](https://github.com/Kiwi-KawagotoKajiru/Kiwi-Maru/archive/refs/heads/master.zip)
+6. [Biz-ud-mincho](https://github.com/googlefonts/morisawa-biz-ud-mincho/archive/refs/heads/main.zip)
+7. [Klee](https://github.com/fontworks-fonts/Klee/archive/refs/heads/master.zip)
